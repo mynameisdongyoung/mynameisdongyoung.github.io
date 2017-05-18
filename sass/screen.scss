@@ -5,7 +5,11 @@
 
 @import "compass/reset";
 
-#dk_test {
-	font-size: 50em;
-	color: skyblue;
+body {
+	background-color: #f00111;
+
+	#dk_test {
+	font-size: 20em;
+	color: gray;
+}
 }

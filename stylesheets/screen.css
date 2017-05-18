@@ -68,7 +68,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 8, ../sass/screen.scss */
-#dk_test {
-  font-size: 50em;
-  color: skyblue;
+body {
+  background-color: #f00111;
+}
+/* line 11, ../sass/screen.scss */
+body #dk_test {
+  font-size: 20em;
+  color: gray;
 }
